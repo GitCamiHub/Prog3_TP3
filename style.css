@@ -1,0 +1,13 @@
+.parrafoColor{
+  color: blue;
+}
+
+.campoB{
+  cursor: not-allowed;
+  background-color: grey;
+}
+
+.campoH{
+  cursor: auto;
+  background-color: white;
+}
